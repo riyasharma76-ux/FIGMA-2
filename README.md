@@ -31,3 +31,13 @@ Click anywhere on the design to leave a comment.
 Mention teammates using @username to notify them.
 Resolve comments once issues are addressed.
 
+## OUTPUT
+
+![Image](https://github.com/user-attachments/assets/43985fca-45ab-4d76-8242-7d9ff6d81aae)
+![Image](https://github.com/user-attachments/assets/e039034d-c12e-485a-ae14-4f4372b3064c)
+![Image](https://github.com/user-attachments/assets/4571c272-df22-4e6e-ab10-4fc5d55b8563)
+![Image](https://github.com/user-attachments/assets/cfc5944d-9d1d-4733-9379-3110de0500fd)
+![Image](https://github.com/user-attachments/assets/2134235f-6098-4dec-b290-00749228d5ae)
+![Image](https://github.com/user-attachments/assets/cfdf4538-c7bb-411a-9664-8c7f40046b1f)
+![Image](https://github.com/user-attachments/assets/635f47df-91be-4d49-adfa-adb0cfafba46)
+
